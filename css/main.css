@@ -87,7 +87,7 @@ main {
     font-size: 18px;
     font-weight: 600;
 }
-.card h1 + p {
+.card p {
     color: hsl(215, 51%, 70%);
     font-size: 17px;
     font-weight: 300;
